@@ -22,7 +22,7 @@ This project is my personal website developed as part of my university portfolio
 
 ## Live Website
 
-https://mfezekogubelana.github.io/virtual-cv/ 
+ 
 
 ## Author
 
