@@ -1,6 +1,6 @@
 # virtual-cv
 
-##Overview
+## Overview
 
 This project is my personal website developed as part of my university portfolio assignment. It serves as an online curriculum vitae showcasing my education, technical skills, academic projects, and contact information.
 
@@ -29,18 +29,13 @@ The website showcases:
 - Contact Information
 - Links to GitHub and LinkedIn profiles
 
-##Projecr structure
+## Project structure
 
 virtual-cv/
-
 assets/
-
 css/
-
 js/
-
 images/
-
 index.html
 
 
