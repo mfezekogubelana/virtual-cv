@@ -15,8 +15,8 @@ The website showcases:
 
 ## Technologies Used
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 
 ## Features
@@ -28,16 +28,6 @@ The website showcases:
 - Skills section
 - Contact Information
 - Links to GitHub and LinkedIn profiles
-
-## Project structure
-
-virtual-cv/
-assets/
-css/
-js/
-images/
-index.html
-
 
 ## Live Website
 
