@@ -31,6 +31,7 @@ The website showcases:
 
 ## Live Website
 
+https://mfezekogubelana.github.io/virtual-cv/
 
 ## Author
 
